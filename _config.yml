@@ -51,7 +51,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/AssociazioneOrbitArte/"
   resume_linkedin_url:          "https://www.linkedin.com/in/liliana-spadaro-15732616a"
   resume_instagram_url:         "https://www.instagram.com/associazioneorbitarte/"
-  resume_website_url:           "https://www.lilianaspadaro.it"
+  #resume_website_url:           "https://www.lilianaspadaro.it"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
