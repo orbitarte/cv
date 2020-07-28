@@ -2,20 +2,20 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Associazione Culturale OrbitArte
-- project: Associazione culturale senza scopo di lucro che si occupa di proporre tours, attivita e visite guidate per italiani e non
+- project: OrbitArte - Associazione culturale senza scopo di lucro che si occupa di proporre tours, attivita e visite guidate per italiani e non
   role: Co-fondatrice e presidente
   duration: 2016 &mdash; ancora in corso
   # url: "https://orbitarte.it"
 
 # RAW - Rome Art Week
-- project: Partecipazione in veste curatoriale
+- project: RAW Rome Art Week - Partecipazione in veste curatoriale
   role: Curatrice e organizzatrice
   duration: 2018 &mdash; ancora in corso
   # url: "https://romeartweek.com"
   description: Progetto pluriennale volto alla sponsorizzazione e del patrimonio artistico contemporaneo di Roma
 
 # PiuVolume
-- project: Associazione che insieme all'associazione Bluecheese, si occupa di organizzare eventi ed esposizioni volti alla riqualificazione del territorio romano
+- project: PiuVolume - Associazione che insieme all'associazione Bluecheese, si occupa di organizzare eventi ed esposizioni volti alla riqualificazione del territorio romano
   role: Redattrice e curatrice
   duration: 2015 &mdash; ancora in corso
   # url: "https://piuvolume.com"
