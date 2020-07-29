@@ -24,7 +24,7 @@
   position: Curatrice
   duration: 20 Ottobre &mdash; 11 Novembre 2018
   summary: Curatrice della mostra “Ognuno si faccia i propri Duchamp. Omaggio a Gianpaolo Berto”, in occasione di RAW - Rome Art Week 2018, presso Studio Sotterraneo, Roma
-https://romeartweek.com/
+  url: https://romeartweek.com/
 
 
 
@@ -33,9 +33,7 @@ https://romeartweek.com/
   position: Curatrice
   duration: 25 Maggio &mdash; 17 Giugno 2018
   summary: Curatrice della esposizione personale di Luis Cutrone “Tra ombra e luce” presso spazio espositivo Ozio Pigneto
-https://www.orbitarte.it/it/come-nasce-unopera-darte-le-incisioni-di-luis-cutrone/
-
-https://www.facebook.com/events/303169303553184/
+  url: https://www.facebook.com/events/303169303553184/
 
 
 # Organizzatrie e guida
@@ -43,9 +41,7 @@ https://www.facebook.com/events/303169303553184/
   position: Organizzatrice e guida
   duration: 23 novembre 2017
   summary: Organizzatrice e guida dell’evento/visita guidata presso il quartiere Quadraro di Roma in occasione della manifestazione "Bauci Park", evento di visual storytelling attraverso passeggiate artistiche
-https://baucipark.com
-
-https://www.facebook.com/Ass.Bluecheese/
+  url: https://www.facebook.com/Ass.Bluecheese/
 
 
 # Organizzatrice e guida
@@ -60,7 +56,7 @@ https://www.facebook.com/Ass.Bluecheese/
   position: Curatrice
   duration: Settembre &mdash; Ottobre 2017
   summary: Curatrice e organizzatrice dell’esposizione personale di Luis Cutrone, presso Studio Sotterraneo
-https://www.orbitarte.it/it/luis-cutrone-studio-sotterraneo/
+  url: https://www.orbitarte.it/it/luis-cutrone-studio-sotterraneo/
 
 
 # Presidente e fondatrice
@@ -68,7 +64,7 @@ https://www.orbitarte.it/it/luis-cutrone-studio-sotterraneo/
   position: Organizzatrice di eventi, curatrice, amministratrice e guida
   duration: 3 Ottobre 2016  &mdash; tutt'ora in corso
   summary: Presidente e fondatrice dell’Associazione culturale "OrbitArte", volta alla promozione del patrimonio artistico di Roma e dell’Italia in generale
-www.orbitarte.it
+  url: www.orbitarte.it
 
 
 # Organizzatrice e relatrice
